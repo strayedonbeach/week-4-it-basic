@@ -4,7 +4,7 @@ Welkom op mijn persoonlijke portfolio website! Hier vind je een overzicht van mi
 
 ## Over mij
 
-Ik ben hasan, 16 jaar oud en student Software Engineering aan het MBO. Ik hou van programmeren en het oplossen van problemen met code.
+Ik ben Zakariya, 16 jaar oud en student Software Engineering aan het MBO. Ik hou van programmeren en het oplossen van problemen met code.
 
 ## Technologieën
 
