@@ -1,4 +1,4 @@
-# Portfolio Hasan
+# Portfolio Zakariya
 
 Welkom op mijn persoonlijke portfolio website! Hier vind je een overzicht van mijn projecten en vaardigheden als software engineering student.
 
